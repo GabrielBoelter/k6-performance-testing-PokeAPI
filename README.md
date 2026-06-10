@@ -2,7 +2,7 @@
 
 ## GitHub Actions + SonarCloud
 
-[![K6 Performance Testing](https://github.com/ugioni/k6-performance-testing/actions/workflows/node.js.yml/badge.svg)](https://github.com/ugioni/k6-performance-testing/actions/workflows/node.js.yml)
+[![K6 Performance Testing](https://github.com/ugioni/k6-performance-testing/actions/workflows/node.js.yml/badge.svg)](https://github.com/GabrielBoelter/k6-performance-testing-PokeAPI/actions)
 
 </br>
 
